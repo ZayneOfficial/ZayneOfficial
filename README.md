@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Saymore Muchenje 👋
 
-<!--
-**ZayneOfficial/ZayneOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Junior Full Stack Developer | Frontend Developer
 
-Here are some ideas to get you started:
+I'm a junior software developer based in Cape Town, South Africa,
+passionate about building modern, responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub
+
+### 🚀 What I'm Working On
+
+- Building real-world web applications.
+- Improving my React and full-stack development skills.
+- Developing projects that solve practical problems.
+
+### 🎯 My Goal
+
+To grow as a software developer, contribute to meaningful projects,
+and collaborate with other developers.
+
+### 📫 Let's Connect
+
+- GitHub: [My GitHub Profile](https://github.com/ZayneOfficial)
+
+---
+⭐ Thanks for visiting my profile!
